@@ -1,5 +1,7 @@
 [![Tver.io chat](http://tverio-slack.herokuapp.com/badge.svg)](http://tverio-slack.herokuapp.com/)
 
-### Добро пожаловать в Тверское ИТ-сообщество!
+### Р”РѕР±СЂРѕ РїРѕР¶Р°Р»РѕРІР°С‚СЊ РІ РўРІРµСЂСЃРєРѕРµ РРў-СЃРѕРѕР±С‰РµСЃС‚РІРѕ!
 
-Информацию о сообществе мы размещаем [В вики](https://github.com/tverio/community/wiki)
+РРЅС„РѕСЂРјР°С†РёСЋ Рѕ СЃРѕРѕР±С‰РµСЃС‚РІРµ РјС‹ СЂР°Р·РјРµС‰Р°РµРј [Р’ РІРёРєРё](https://github.com/tverio/community/wiki)
+
+[Р§РµРєР»РёСЃС‚ РґР»СЏ СЃРїРёРєРµСЂРѕРІ](speakers/checklist.md)
