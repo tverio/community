@@ -4,4 +4,4 @@
 
 Информацию о сообществе мы размещаем [В вики](https://github.com/tverio/community/wiki)
 
-[Информация о спикерах](speakers/readme.md)
+[Информация о спикерах](speakers/README.md)
