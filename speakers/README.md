@@ -6,8 +6,10 @@
 
 ## Список спикеров
 
-* [Иван Новиков](list/jonny-novikov.md)
-
 * [Алексей Ефремов](list/lexich-efremov.md)
 
-* Делаем PR для добавления спикера в этот список со ссылкой
+* [Илья Лесик](list/lesik.md)
+
+* [Иван Новиков](list/jonny-novikov.md)
+
+> Список отсортирован по фамилиям. Для добавления спикера в этот список отправьте [Pull Request](https://github.com/tverio/community/pulls) со ссылкой.
