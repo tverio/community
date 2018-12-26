@@ -2,7 +2,7 @@
 
 ![Илья Лесик](photos/lesik.jpg)
 
-[github](https://github.com/ilyalesik) 
+[github](https://github.com/ilyalesik) | [twitter](https://twitter.com/ilialesik)
 
 Frontend разработчик, спикер 
 
