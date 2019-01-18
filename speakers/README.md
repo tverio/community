@@ -8,6 +8,8 @@
 
 * [Алексей Ефремов](list/lexich-efremov.md)
 
+* [Барулин Максим](list/maxim-barulin.md)
+
 * [Илья Лесик](list/lesik.md)
 
 * [Иван Новиков](list/jonny-novikov.md)
