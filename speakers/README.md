@@ -10,6 +10,8 @@
 
 * [Барулин Максим](list/maxim-barulin.md)
 
+* [Николай Кальгин](list/kalgin.md)
+
 * [Илья Лесик](list/lesik.md)
 
 * [Иван Новиков](list/jonny-novikov.md)
