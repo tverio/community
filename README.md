@@ -14,7 +14,7 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/all-contri
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-| [<img src="https://avatars2.githubusercontent.com/u/1270648?v=4" width="100px;" alt="Ilya Lesik"/><br /><sub><b>Ilya Lesik</b></sub>](https://github.com/ilyalesik)<br />[💻](https://github.com/tverio/community/commits?author=ilyalesik "Code") |
+| [<img src="https://avatars2.githubusercontent.com/u/1270648?v=4" width="100px;" alt="Ilya Lesik"/><br /><sub><b>Ilya Lesik</b></sub>](https://github.com/ilyalesik)<br />[💻](https://github.com/tverio/community/commits?author=ilyalesik "Code") [👀](#review-ilyalesik "Reviewed Pull Requests") |
 | :---: |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
