@@ -14,7 +14,7 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/all-contri
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-| [<img src="https://avatars0.githubusercontent.com/u/527823?v=4" width="100px;" alt="Ivan Novikov"/><br /><sub><b>Ivan Novikov</b></sub>](http://jonnynovikov.com)<br />[💻](https://github.com/tverio/community/commits?author=jonny-novikov "Code") [👀](#review-jonny-novikov "Reviewed Pull Requests") [📋](#eventOrganizing-jonny-novikov "Event Organizing") |
+| [<img src="https://avatars0.githubusercontent.com/u/527823?v=4" width="100px;" alt="Ivan Novikov"/><br /><sub><b>Ivan Novikov</b></sub>](http://jonnynovikov.com)<br />[💻](https://github.com/tverio/community/commits?author=jonny-novikov "Code") [👀](#review-jonny-novikov "Reviewed Pull Requests") [📋](#eventOrganizing-jonny-novikov "Event Organizing") [🤔](#ideas-jonny-novikov "Ideas, Planning, & Feedback") |
 | :---: |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
