@@ -6,6 +6,8 @@
 
 ## Список спикеров
 
+* [Самат Галимов](list/samat-galimov.md)
+
 * [Алексей Ефремов](list/lexich-efremov.md)
 
 * [Барулин Максим](list/maxim-barulin.md)
