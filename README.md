@@ -10,6 +10,12 @@
 * [Стандарты сообщества](standards/README.md)
 * [Информация о спикерах](speakers/README.md)
 
+## :thumbsup: Thanks to
+
+[Jetbrains](https://www.jetbrains.com/) Community Support for providing great tools for Tver.IO
+
+<p align="left"><img src="assets/jb.png" width="64"></p>
+
 ## Contributors
 
 Thanks goes to these wonderful people ([emoji key](https://github.com/all-contributors/all-contributors#emoji-key)):
