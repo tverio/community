@@ -1,6 +1,6 @@
 <p align="center"><img src="logo/tverio_logo_black.png" width="128"></p>
 
-[![Tver.io chat]("https://slack.tverio.now.sh/badge.svg")](https://slack.tverio.now.sh)
+[![Tver.io chat](https://slack.tverio.now.sh/badge.svg)](https://slack.tverio.now.sh)
 [![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors)
 
 ### Добро пожаловать в Тверское ИТ-сообщество!
