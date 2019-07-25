@@ -4,7 +4,7 @@
 
 [github](https://github.com/ilyalesik) | [twitter](https://twitter.com/ilialesik)
 
-OSS developer. (link: http://Tver.IO) Tver.IO Meetup Co-Organizer
+OSS developer. [Tver.IO](http://tver.io) Meetup Co-Organizer
 
 ## Доклады
 
