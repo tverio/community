@@ -4,7 +4,7 @@
 
 [github](https://github.com/ilyalesik) | [twitter](https://twitter.com/ilialesik)
 
-Frontend разработчик, спикер
+OSS developer. (link: http://Tver.IO) Tver.IO Meetup Co-Organizer
 
 ## Доклады
 
