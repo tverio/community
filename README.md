@@ -1,16 +1,29 @@
+<!-- markdownlint-disable -->
+
 <p align="center"><img src="logo/tverio_logo_black.png" width="128"></p>
 
 [![Tver.io chat](http://tverio-slack.herokuapp.com/badge.svg)](http://tverio-slack.herokuapp.com/)
 [![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors)
+[![Build Status](https://travis-ci.org/tverio/community.svg?branch=master)](https://travis-ci.org/tverio/community)
+
 
 ### Добро пожаловать в Тверское ИТ-сообщество!
 
-Информацию о сообществе мы размещаем [В вики](https://github.com/tverio/community/wiki)
+Hosted at [Zeit](https://community.tverio.now.sh).
 
-* [Стандарты сообщества](standards/README.md)
-* [Информация о спикерах](speakers/README.md)
+## Install
 
-## :thumbsup: Thanks to
+```bash
+npm i
+```
+
+## Start local
+
+```bash
+npm run start
+```
+
+## 👍 Thanks to
 
 [Jetbrains](https://www.jetbrains.com/) Community Support for providing great tools for Tver.IO
 
@@ -27,3 +40,5 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/all-contri
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+<!-- markdownlint-enable -->

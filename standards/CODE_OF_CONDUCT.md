@@ -1,3 +1,4 @@
+<!-- markdownlint-disable -->
 # Citizen Code of Conduct
 
 ## 1. Purpose
@@ -92,3 +93,4 @@ _Revision 2.2. Posted 4 February 2016._
 _Revision 2.1. Posted 23 June 2014._
 
 _Revision 2.0, adopted by the [Stumptown Syndicate](http://stumptownsyndicate.org) board on 10 January 2013. Posted 17 March 2013._
+<!-- markdownlint-enable -->

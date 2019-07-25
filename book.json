@@ -1,0 +1,20 @@
+{
+  "title": "Tver.io Community",
+  "root": "./",
+  "gitbook": ">=3.2.1",
+  "plugins": ["edit-link", "prism", "-highlight", "github", "anchorjs"],
+  "pluginsConfig": {
+    "edit-link": {
+      "base": "https://github.com/tverio/community/blob/master",
+      "label": "Edit This Page"
+    },
+    "github": {
+      "url": "https://github.com/tverio/community"
+    },
+    "theme-default": {
+      "styles": {
+        "website": "build/gitbook.css"
+      }
+    }
+  }
+}

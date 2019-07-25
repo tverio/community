@@ -1,0 +1,26 @@
+{
+  "name": "community",
+  "version": "1.0.0",
+  "description": "Tver.io Community",
+  "main": "index.js",
+  "scripts": {
+    "lint": "mdlint .",
+    "clean": "rm -rf _book/",
+    "start": "gitbook serve",
+    "build": "gitbook build",
+    "now-build": "npm run build",
+    "deploy": "now"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gitbook-cli": "^2.3.2",
+    "gitbook-plugin-anchorjs": "^2.1.0",
+    "gitbook-plugin-edit-link": "^2.0.2",
+    "gitbook-plugin-github": "^2.0.0",
+    "gitbook-plugin-prism": "^2.4.0"
+  },
+  "devDependencies": {
+    "mdlint": "github:Laboratoria/mdlint"
+  }
+}
