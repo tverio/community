@@ -4,7 +4,7 @@
 
 [![Tver.io chat](https://slack.tverio.now.sh/badge.svg)](https://slack.tverio.now.sh)
 [![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors)
-[![Build Status](https://travis-ci.org/tverio/community.svg?branch=master)](https://travis-ci.org/tverio/community)
+[![CircleCI](https://circleci.com/gh/tverio/community.svg?style=svg)](https://circleci.com/gh/tverio/community)
 
 
 ### Добро пожаловать в Тверское ИТ-сообщество!
