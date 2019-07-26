@@ -16,3 +16,6 @@
     - [Илья Лесик](speakers/list/lesik.md)
     - [Иван Новиков](speakers/list/jonny-novikov.md)
   + [Checklist](speakers/Readme.md)
+* Standards
+  + [Code of conduct](./standards/CODE_OF_CONDUCT.md)
+  + [Video production](./standards/video/readme.md)
