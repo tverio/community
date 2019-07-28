@@ -2,7 +2,6 @@
 
 ## Content
 
-* [Logo](logo/README.md)
 * [Meetups](meetups/Readme.md)
   + All
     - [2019-06-13 Girl Power](meetups/all/2019-06-13-girl-power/Readme.md)
@@ -18,6 +17,7 @@
   + [Checklist](speakers/Readme.md)
 * Standards
   + [Code of conduct](./standards/CODE_OF_CONDUCT.md)
+  + [Logo](standards/logo/README.md)
   + [Video production](./standards/video/readme.md)
 * Meetings
   + [2019-03-26 Partnership](meetings/2019-03-26-partnership-meeting.md)
