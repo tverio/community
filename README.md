@@ -7,19 +7,14 @@
 [![CircleCI](https://circleci.com/gh/tverio/community.svg?style=svg)](https://circleci.com/gh/tverio/community)
 
 
-### Добро пожаловать в Тверское ИТ-сообщество!
+# Welcome to Tver.io Community
 
-Hosted at [Zeit](https://community.tverio.now.sh).
-
-## Install
-
-```bash
-npm i
-```
+This is Tver.io community knowledge base hosted at [docs.tver.io](https://docs.tver.io/).
 
 ## Start local
 
 ```bash
+npm i
 npm run start
 ```
 
