@@ -20,4 +20,5 @@
   + [Code of conduct](./standards/CODE_OF_CONDUCT.md)
   + [Video production](./standards/video/readme.md)
 * Meetings
+  + [2019-03-26 Partnership](meetings/2019-03-26-partnership-meeting.md)
   + [2019-06-28 Social Media Strategy](meetings/2019-06-28-social-media-strategy.md)
