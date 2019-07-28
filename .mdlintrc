@@ -2,5 +2,6 @@
   "default": true,
   "ul-style": { "style": "sublist" },
   "no-duplicate-header": false,
-  "no-inline-html": false
+  "no-inline-html": false,
+  "no-trailing-punctuation": false
 }
