@@ -7,6 +7,7 @@
     - [2019-06-13 Girl Power](meetups/all/2019-06-13-girl-power/Readme.md)
     - [2019-07-25 Pure Meetup](meetups/all/2019-07-25-pure-meetup/Readme.md)
   + Meetings
+    - [2018-12-19 Media Content](meetings/2018-12-19-media-meeting.md)
     - [2019-03-26 Partnership](meetings/2019-03-26-partnership-meeting.md)
     - [2019-06-28 Social Media Strategy](meetings/2019-06-28-social-media-strategy.md)
 * Speakers
@@ -21,4 +22,5 @@
 * Standards
   + [Code of conduct](./standards/CODE_OF_CONDUCT.md)
   + [Logo](standards/logo/README.md)
+  + [Media Strategy](standards/media/social-media-strategy.md)
   + [Video production](./standards/video/readme.md)
