@@ -1,4 +1,4 @@
-# [2019-06-28] Tver.io Meeting — Topic: Partnership
+# [2019-03-26] Tver.io Meeting — Topic: Partnership
 
 Участники:
 
