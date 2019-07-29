@@ -32,4 +32,4 @@
 
 ## Итоговый документ
 
-[Social Media Strategy](../standards/media/social-media-strategy.md)
+[Social Media Strategy](../../standards/media/social-media-strategy.md)
