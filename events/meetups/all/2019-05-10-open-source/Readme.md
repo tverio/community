@@ -16,7 +16,7 @@ Keynote спикеры:
 * [Илья Лесик](https://github.com/ilyalesik) front-end engineer и
   контрибутор open-source проектов
 
-## Доклады основной программы
+Доклады основной программы:
 
 * "Продвижение опенсорс-проектов" -
   [Андрей Ситник](https://github.com/ai), Evil Martians.
