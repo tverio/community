@@ -1,4 +1,4 @@
-# Tver.io Girl Power Meetup
+# [2019-06-13] Tver.io Girl Power Meetup
 
 ## Links
 
