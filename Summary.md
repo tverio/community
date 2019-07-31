@@ -4,6 +4,7 @@
 
 * Events
   + Meetups
+    - [2019-06-13 Open-Source](events/meetups/all/2019-05-10-open-source/Readme.md)
     - [2019-06-13 Girl Power](events/meetups/all/2019-06-13-girl-power/Readme.md)
     - [2019-07-25 Pure Meetup](events/meetups/all/2019-07-25-pure-meetup/Readme.md)
   + Meetings
