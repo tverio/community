@@ -4,6 +4,20 @@
 
 * [Meetup.com Event](https://www.meetup.com/tverio/events/262264900/)
 
+## History
+
+Изначально митап планировался как встреча с Андреем Ситником.
+Была подготовлена обложка:
+
+![Promotion of Open-Source Projects](./Sitnik_poster_1209x680.png)
+
+В последствии событие было расширено до полноценного митапа:
+
+![Open-Source Meetup](./Open-Source%20Meetup%201209x680.png)
+
+На последующих митапах персонализированную обложку начали
+рисовать для каждого спикера.
+
 ## Event program
 
 * Открытие конференции и розыгрыш лицензий от JetBrains,
