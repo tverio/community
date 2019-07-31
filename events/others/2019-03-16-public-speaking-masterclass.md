@@ -2,7 +2,7 @@
 
 ## Links
 
-* [Meetup.com Event](https://www.meetup.com/tverio/events/262264900/)
+* [Meetup.com Event](https://www.meetup.com/tverio/events/259123732/)
 
 ## Описание
 
