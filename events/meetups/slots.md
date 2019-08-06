@@ -2,7 +2,7 @@
 
 Just send PR for book slot.
 
-## September meetup
+## 2019 September meetup
 
 * Possible name:
   + Back to School
@@ -20,7 +20,7 @@ Just send PR for book slot.
   + Slot 2 - Vacant!
   + Slot 3 - Vacant!
 
-## October meetup
+## 2019 October meetup
 
 * Possible name
 * Possible topic
@@ -34,7 +34,7 @@ Just send PR for book slot.
   + Slot 2 - Vacant!
   + Slot 3 - Vacant!
 
-## November meetup
+## 2019 November meetup
 
 * Possible name:
 * Possible topic:
