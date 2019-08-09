@@ -24,7 +24,7 @@ Just send PR for book slot.
 
 * Possible name
 * Possible topic
-  + Design
+  + Product / Design
   + Frontend  
 * Possible dates:
   + 17.10.2019
