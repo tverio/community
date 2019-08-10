@@ -19,6 +19,7 @@
   + Others
     - [2019-03-16 Public Speaking Masterclass](events/others/2019-03-16-public-speaking-masterclass.md)
     - [2019-07-20 Analyst Games](events/others/2019-07-20-analyst-games.md)
+    - [2019-08-10 Big Data Saturday](events/others/2019-08-10-big-data-saturday/readme.md)
 * Speakers
   + List
     - [Самат Галимов](speakers/list/samat-galimov.md)
