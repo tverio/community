@@ -22,15 +22,15 @@ Just send PR for book slot.
 
 ## 2019 October meetup
 
-* Possible name
-* Possible topic
+* Possible name:
+  + Tver.io Product Meetup
+* Possible topic:
   + Product / Design
-  + Frontend  
 * Possible dates:
   + 17.10.2019
   + 24.10.2019
 * **Slots**
-  + Slot 1 - Vacant!
+  + Тихон Белоусько — <Тема доклада уточняется>
   + Slot 2 - Vacant!
   + Slot 3 - Vacant!
 
