@@ -31,6 +31,8 @@ Just send PR for book slot.
   + 24.10.2019
 * **Slots**
   + Тихон Белоусько — <Тема доклада уточняется>
+    - Co-founder в resume.io, Ростов-на-Дону
+    - Twitter [@tikhondaz](https://twitter.com/tikhondaz)
   + Slot 2 - Vacant!
   + Slot 3 - Vacant!
 
