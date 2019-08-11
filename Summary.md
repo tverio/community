@@ -16,6 +16,7 @@
     - [2019-03-26 Partnership](events/meetings/2019-03-26-partnership-meeting.md)
     - [2019-06-28 Social Media Strategy](events/meetings/2019-06-28-social-media-strategy.md)
     - [2019-07-30 Мозговой штурм: Развитие Tver.IO](events/meetings/2019-07-05-brainstorm-tverio-evolution/Readme.md)
+    - [2019-08-10 Мозговой штурм: Развитие Tver.IO](events/meetings/2019-08-10-brainstorm.md)
   + Others
     - [2019-03-16 Public Speaking Masterclass](events/others/2019-03-16-public-speaking-masterclass.md)
     - [2019-07-20 Analyst Games](events/others/2019-07-20-analyst-games.md)
