@@ -33,7 +33,8 @@ Just send PR for book slot.
   + Тихон Белоусько — <Тема доклада уточняется>
     - Co-founder в resume.io, Ростов-на-Дону
     - Twitter [@tikhondaz](https://twitter.com/tikhondaz)
-  + Slot 2 - Vacant!
+  + Александр Балашов - <Тема доклада уточняется>
+    - Co-founder Redis Creative Agency
   + Slot 3 - Vacant!
 
 ## 2019 November meetup
