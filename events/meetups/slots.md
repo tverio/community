@@ -9,14 +9,14 @@ Just send PR for book slot.
   + Power Up
   + DevDay
 * Possible topic:
-  + Community building
   + Frontend
 * Possible dates:
   + 12.09.2019 (programmers day)
   + 19.09.2019
   + 26.09.2019
 * **Slots**
-  + Slot 1 - Vacant!
+  + Антон Кастрицкий — <Тема доклада уточняется>
+    - Twitter [@AntonK52](https://twitter.com/AntonK52)
   + Slot 2 - Vacant!
   + Slot 3 - Vacant!
 
