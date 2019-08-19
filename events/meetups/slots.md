@@ -35,7 +35,9 @@ Just send PR for book slot.
     - Twitter [@tikhondaz](https://twitter.com/tikhondaz)
   + Александр Балашов - <Тема доклада уточняется>
     - Co-founder Redis Creative Agency
-  + Slot 3 - Vacant!
+  + Alexey Taktarov - <Тема доклада уточняется>
+    - Co-founder в resume.io, создатель библиотеки Wouter
+    - Twitter [@mlfrg](https://twitter.com/mlfrg)
 
 ## 2019 November meetup
 
