@@ -8,16 +8,15 @@ Just send PR for book slot.
   + Back to School
   + Power Up
   + DevDay
-* Possible topic:
   + Frontend
-* Possible dates:
-  + 12.09.2019 (programmers day)
-  + 19.09.2019
+* Topic:
+  + Frontend
+* Date:
   + 26.09.2019
 * **Slots**
-  + Антон Кастрицкий — <Тема доклада уточняется>
+  + Антон Кастрицкий, Yandex — <Тема доклада уточняется>
     - Twitter [@AntonK52](https://twitter.com/AntonK52)
-  + Slot 2 - Vacant!
+  + Polina Gurtovaya, Evil Martians — <Тема доклада уточняется>
   + Slot 3 - Vacant!
 
 ## 2019 October meetup
