@@ -24,11 +24,10 @@ Just send PR for book slot.
 
 * Possible name:
   + Tver.io Product Meetup
-* Possible topic:
+* Topic:
   + Product / Design
-* Possible dates:
+* Date:
   + 17.10.2019
-  + 24.10.2019
 * **Slots**
   + Тихон Белоусько — <Тема доклада уточняется>
     - Co-founder в resume.io, Ростов-на-Дону
