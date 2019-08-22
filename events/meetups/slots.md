@@ -17,7 +17,7 @@ Just send PR for book slot.
   + Антон Кастрицкий, Yandex — <Тема доклада уточняется>
     - Twitter [@AntonK52](https://twitter.com/AntonK52)
   + Polina Gurtovaya, Evil Martians — <Тема доклада уточняется>
-  + Nick Shevrov, Yandex - <Тема доклада уточняется>
+  + Никита Сидоров, Yandex - <Тема доклада уточняется>
 
 ## 2019 October meetup
 
