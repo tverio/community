@@ -41,6 +41,7 @@ Just send PR for book slot.
 
 * Possible name:
 * Possible topic:
+  + Java/Kotlin
 * Possible dates:
   + 14.11.2019
   + 21.11.2019
