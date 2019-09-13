@@ -42,6 +42,7 @@ Just send PR for book slot.
 * Possible name:
 * Possible topic:
   + Java/Kotlin
+  + Team leadership
 * Possible dates:
   + 14.11.2019
   + 21.11.2019
