@@ -10,7 +10,7 @@
     - [2019-05-10 Open-Source](events/meetups/all/2019-05-10-open-source/Readme.md)
     - [2019-06-13 Girl Power](events/meetups/all/2019-06-13-girl-power/Readme.md)
     - [2019-07-25 Pure Meetup](events/meetups/all/2019-07-25-pure-meetup/Readme.md)
-    - [Slots](events/meetups/slots.md)
+    - [CFP](events/meetups/CFP.md)
   + Meetings
     - [2018-12-19 Media Content](events/meetings/2018-12-19-media-meeting.md)
     - [2019-03-26 Partnership](events/meetings/2019-03-26-partnership-meeting.md)
